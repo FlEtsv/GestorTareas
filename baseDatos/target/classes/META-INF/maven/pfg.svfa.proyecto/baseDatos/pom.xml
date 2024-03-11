@@ -6,7 +6,7 @@
 
   <groupId>pfg.svfa.proyecto</groupId>
   <artifactId>baseDatos</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
 
   <name>baseDatos</name>
   <!-- FIXME change it to the project's website -->
